@@ -12,10 +12,10 @@ The repository consists of a collection of questions to ask recruiters before or
 
 ## Repository structure
 
-The idea is to have  questions divided in different files, one for each specific role, except for _base_ which contains questions that do not depend on the role.
-
-It can be interesting have files for different languages maybe using a directory for each language.
-
+The files are collected in different directory, one for each language (English, Italian, German, Spanish, French etc).
+In each directoryshould be dufferent files
+    * _base_ file, these questions do not depend on the role 
+    * a file for each specific role
 
 ## How to contribute
 
