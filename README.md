@@ -14,7 +14,7 @@ The repository consists of:
 
 ## Repository structure
 
-The idea is to have  uestions divided in different files, one for each specific role, except for _general_ which contains questions that do not depend on the role.
+The idea is to have  questions divided in different files, one for each specific role, except for _base_ which contains questions that do not depend on the role.
 
 
 ## How to contribute
