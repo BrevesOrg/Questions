@@ -8,13 +8,13 @@ The service is available [here](https://breves.it/?campaign=github) and it is ca
 
 Even if you will not use [Breves](https://breves.it/?campaign=github) (you can create the questionnaire however you like) I think that asking questions to the recruiters is very important.
 The purpose of this repository is to help people who are contacted by recruiters.
-The repository consists of:
-* a collection of questions to ask recruiters before or during an interview in order to understand if the job may interest us or not.
-* possible answers to be given to recruiters
+The repository consists of a collection of questions to ask recruiters before or during an interview in order to understand if the job may interest us or not.
 
 ## Repository structure
 
 The idea is to have  questions divided in different files, one for each specific role, except for _base_ which contains questions that do not depend on the role.
+
+It can be interesting have files for different languages maybe using a directory for each language.
 
 
 ## How to contribute
