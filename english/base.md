@@ -13,3 +13,6 @@
 * How did this position become available?
 * Why did the last person in this job leave?
 * What is the interview process?
+* How do you incentivise your team?   - https://github.com/readme/guides/technical-interviews
+* Can you share an example of something the team did that didn’t go well, and what did you do to course correct? - https://github.com/readme/guides/technical-interviews
+* What does the shipping look like internally, and, How much attention do you pay to reducing friction for the engineering team?  - https://github.com/readme/guides/technical-interviews
